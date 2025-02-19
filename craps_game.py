@@ -57,6 +57,6 @@ def menu():
             print("Thank You for playing!")
             break
         else:
-            print("Invalid opition. Try again.\n")
+            print("Invalid option. Try again.\n")
             
 menu()
